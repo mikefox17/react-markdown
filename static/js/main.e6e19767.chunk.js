@@ -1,2 +1,0 @@
-(this["webpackJsonpreact-markdown"]=this["webpackJsonpreact-markdown"]||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);var c=n(1),r=n.n(c),a=n(4),o=n.n(a),d=(n(3),n(0));var i=function(){return Object(d.jsx)("div",{children:Object(d.jsx)("h2",{children:"React Markdown"})})};o.a.render(Object(d.jsx)(r.a.StrictMode,{children:Object(d.jsx)(i,{})}),document.getElementById("root"))},3:function(e,t,n){}},[[10,1,2]]]);
-//# sourceMappingURL=main.e6e19767.chunk.js.map
