@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-markdown/static/css/main.ae2a182a.chunk.css",
-    "main.js": "/react-markdown/static/js/main.4a0c2c86.chunk.js",
-    "main.js.map": "/react-markdown/static/js/main.4a0c2c86.chunk.js.map",
+    "main.css": "/react-markdown/static/css/main.5ea289b4.chunk.css",
+    "main.js": "/react-markdown/static/js/main.0ca4858a.chunk.js",
+    "main.js.map": "/react-markdown/static/js/main.0ca4858a.chunk.js.map",
     "runtime-main.js": "/react-markdown/static/js/runtime-main.32b0bcc3.js",
     "runtime-main.js.map": "/react-markdown/static/js/runtime-main.32b0bcc3.js.map",
-    "static/js/2.da88abe4.chunk.js": "/react-markdown/static/js/2.da88abe4.chunk.js",
-    "static/js/2.da88abe4.chunk.js.map": "/react-markdown/static/js/2.da88abe4.chunk.js.map",
+    "static/js/2.20384455.chunk.js": "/react-markdown/static/js/2.20384455.chunk.js",
+    "static/js/2.20384455.chunk.js.map": "/react-markdown/static/js/2.20384455.chunk.js.map",
     "index.html": "/react-markdown/index.html",
-    "static/css/main.ae2a182a.chunk.css.map": "/react-markdown/static/css/main.ae2a182a.chunk.css.map",
-    "static/js/2.da88abe4.chunk.js.LICENSE.txt": "/react-markdown/static/js/2.da88abe4.chunk.js.LICENSE.txt"
+    "static/css/main.5ea289b4.chunk.css.map": "/react-markdown/static/css/main.5ea289b4.chunk.css.map",
+    "static/js/2.20384455.chunk.js.LICENSE.txt": "/react-markdown/static/js/2.20384455.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.32b0bcc3.js",
-    "static/js/2.da88abe4.chunk.js",
-    "static/css/main.ae2a182a.chunk.css",
-    "static/js/main.4a0c2c86.chunk.js"
+    "static/js/2.20384455.chunk.js",
+    "static/css/main.5ea289b4.chunk.css",
+    "static/js/main.0ca4858a.chunk.js"
   ]
 }
